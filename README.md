@@ -20,7 +20,7 @@
 </p>
 
 
-<img align='left' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="150">
+<img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="150">
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShaunHennedige&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
