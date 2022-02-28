@@ -6,7 +6,7 @@ Iam Shaun Hennedige
 - 🤔 I’m looking for help with --> Web project development 
 - 💬 Ask me about --> Anything 
 - 📫 How to reach me: -->  TEL || WHATSAPP: +94 764778823 || EMAIL: shaundvp@gmail.com
-- ⚡ Fun fact: --> I am Song Lover 
+- ⚡ Fun fact: --> I am a Song Lover 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
