@@ -1,4 +1,4 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+## <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <h1>Iam Shaun Hennedige</h1>
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me: -->  TEL || WHATSAPP: +94 764778823 || EMAIL: shaundvp@gmail.com
 - ⚡ Fun fact: --> I am a Song Lover 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ShaunHennedige" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shaun-hennedige-%C2%A9-63158b180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 <a href="https://www.apple.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/shaun.hennedige" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Illustrator" width="40" height="40"/> </a></p>
 
-## Skills and Experience
+## <h2>Skills and Experience</h2>
 🔴 <strong>Programming Languages</strong>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
