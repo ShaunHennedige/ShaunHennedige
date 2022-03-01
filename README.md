@@ -13,10 +13,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/ShaunHennedige" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaun-hennedige-%C2%A9-63158b180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sean_hennedige/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtzeij7d_d2t6Wd0r3a5Asw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/ShaunHennedige" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaun-hennedige-%C2%A9-63158b180/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/sean_hennedige/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" alt="" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtzeij7d_d2t6Wd0r3a5Asw" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" alt="" height="40" width="40" /></a>
 </p>
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
