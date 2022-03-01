@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning --> C# OOP language
 - 🤔 I’m looking for help with --> Web project development 
 - 💬 Ask me about --> Anything 
-- 📫 How to reach me: -->  TEL || WHATSAPP: +94 764778823 || EMAIL: shaundvp@gmail.com
+- 📫 How to reach me:
+- || Tel/ WHATSAPP: +94 764778823 
+- || EMAIL: shaundvp@gmail.com
 - ⚡ Fun fact: --> I am a Song Lover 
 
 <h2 align="left">Connect with me:</h2>
