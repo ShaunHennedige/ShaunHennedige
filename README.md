@@ -26,20 +26,16 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShaunHennedige&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## <h2>Tools</h2>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.sketch.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="jss" width="40" height="40"/> </a> <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.apple.com/safari/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line-wordmark.svg" alt="safari" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VisualStudio" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+<p align="left"><a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.sketch.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="jss" width="40" height="40"/> </a> <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.apple.com/safari/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line-wordmark.svg" alt="safari" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VisualStudio" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://phpenthusiast.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
-<a href="https://www.apple.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a>
-<a href="https://www.facebook.com/shaun.hennedige" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Illustrator" width="40" height="40"/> </a></p>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" alt="IJ" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+
 
 ## <h2>Skills and Experience</h2>
-🔴 <strong>Programming Languages</strong>
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 🔴 <strong>Frameworks</strong>
 
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -48,8 +44,6 @@
 
 🔴 <strong>Databases</strong>
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 🔴 <strong>Tools and Services</strong>
