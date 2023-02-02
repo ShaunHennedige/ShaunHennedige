@@ -52,4 +52,6 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
+</br>
+<a href="https://www.testdome.com/certificates/cb981e494fc040aab08a2d59a1ab75b0" target="_blank"> <img src="https://raw.githubusercontent.com/ShaunHennedige/Computing-Certificates/main/Screenshot%202023-02-02%20at%2007.14.07.png?token=GHSAT0AAAAAAB6HVL4DSILWMIS75K4N35DAY63KEYA" alt="C#CERT" width="450" height="450"/></a>
+</br>
