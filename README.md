@@ -1,21 +1,18 @@
-<h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-<h1>I am Shaun Hennedige</h1>
+<h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Shaun Hennedige </h1>
 
 <img align='right' src="https://media2.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47b596davzzkj65n2frc8josr9jwcikb1zaflbjmv4&rid=giphy.gif&ct=s" width="230">
 
 <ul>
-  <li><img src="https://img.shields.io/badge/Working%20as%20a-Freelance%20Software%20Engineer-blue?style=flat-square&logo=appveyor"/></li>
-  <li><img src="https://img.shields.io/badge/Learning-C%23%20OOP%20language-green?style=flat-square&logo=appveyor"/></li>
-  <li><img src="https://img.shields.io/badge/Help%20with-Web%20project%20development-yellow?style=flat-square&logo=appveyor"/></li>
-  <li><img src="https://img.shields.io/badge/Ask%20me%20about-Anything-orange?style=flat-square&logo=appveyor"/></li>
-  <li><img src="https://img.shields.io/badge/How%20to%20reach%20me-blueviolet?style=flat-square&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Working%20as%20a-Freelance%20Software%20Engineer-blue?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/Learning-C%23%20OOP%20language-green?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/Help%20with-Web%20project%20development-yellow?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/Ask%20me%20about-Anything-orange?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/How%20to%20reach%20me-blueviolet?style=flat-square&logo=appveyor"/><br>
     <ul style="list-style-type: none;">
-      <li><img src="https://img.shields.io/badge/Tel%2FWhatsApp-%2B94%20764778823-green?style=flat-square&logo=appveyor"/></li>
-      <li><img src="https://img.shields.io/badge/EMAIL-shaundvp%40gmail.com-orange?style=flat-square&logo=appveyor"/></li>
+      <img src="https://img.shields.io/badge/Tel%2FWhatsApp-%2B94%20764778823-green?style=flat-square&logo=appveyor"/><br>
+      <img src="https://img.shields.io/badge/EMAIL-shaundvp%40gmail.com-orange?style=flat-square&logo=appveyor"/><br>
     </ul>
-  </li>
-  <li><img src="https://img.shields.io/badge/Fun%20fact-I%20am%20a%20Song%20Lover-lightgrey?style=flat-square&logo=appveyor"/></li>
+  <img src="https://img.shields.io/badge/Fun%20fact-I%20am%20a%20Song%20Lover-lightgrey?style=flat-square&logo=appveyor"/><br>
 </ul>
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
