@@ -5,16 +5,17 @@
 <img align='right' src="https://media2.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47b596davzzkj65n2frc8josr9jwcikb1zaflbjmv4&rid=giphy.gif&ct=s" width="230">
 
 <ul>
-  <li>🔭 I’m currently working on - Splinty inc</li>
-  <li>🌱 I’m currently learning - C# OOP language</li>
-  <li>🤔 I’m looking for help with - Web project development</li>
-  <li>💬 Ask me about - Anything</li>
-  <li>📫 How to reach me:</li>
-  <ul style="list-style-type: none;">
-    <li>|| Tel/ WHATSAPP: +94 764778823 </li>
-    <li>|| EMAIL: shaundvp@gmail.com </li>
-  </ul>
-  <li>⚡ Fun fact: I am a Song Lover </li>
+  <li><img src="https://img.shields.io/badge/Working%20as%20a-Freelance%20Software%20Engineer-blue?style=flat-square&logo=appveyor"/></li>
+  <li><img src="https://img.shields.io/badge/Learning-C%23%20OOP%20language-green?style=flat-square&logo=appveyor"/></li>
+  <li><img src="https://img.shields.io/badge/Help%20with-Web%20project%20development-yellow?style=flat-square&logo=appveyor"/></li>
+  <li><img src="https://img.shields.io/badge/Ask%20me%20about-Anything-orange?style=flat-square&logo=appveyor"/></li>
+  <li><img src="https://img.shields.io/badge/How%20to%20reach%20me-blueviolet?style=flat-square&logo=appveyor"/>
+    <ul style="list-style-type: none;">
+      <li><img src="https://img.shields.io/badge/Tel%2FWhatsApp-%2B94%20764778823-green?style=flat-square&logo=appveyor"/></li>
+      <li><img src="https://img.shields.io/badge/EMAIL-shaundvp%40gmail.com-orange?style=flat-square&logo=appveyor"/></li>
+    </ul>
+  </li>
+  <li><img src="https://img.shields.io/badge/Fun%20fact-I%20am%20a%20Song%20Lover-lightgrey?style=flat-square&logo=appveyor"/></li>
 </ul>
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
@@ -23,41 +24,27 @@
 
 <h2>Tools</h2>
 <p align="left">
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.sketch.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="sketch" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VisualStudio" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://phpenthusiast.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" alt="IJ" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/vscode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
+  <a href="https://www.sketch.com" target="_blank"><img src="https://img.shields.io/badge/sketch-lightgrey?style=flat-square&logo=sketch&logoColor=white" alt="sketch"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-purple?style=flat-square&logo=figma&logoColor=white" alt="figma"/></a>
+  <a href="https://www.flutterflow.io/" target="_blank"><img src="https://img.shields.io/badge/flutterflow-blue?style=flat-square&logo=flutter&logoColor=white" alt="flutterflow"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/matlab-orange?style=flat-square&logo=matlab&logoColor=white" alt="matlab"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-green?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
+  <a href="https://www.canva.com" target="_blank"><img src="https://img.shields.io/badge/canva-blue?style=flat-square&logo=canva&logoColor=white" alt="canva"/></a>
+  <a href="https://www.notion.so" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white" alt="notion"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/xcode-blue?style=flat-square&logo=xcode&logoColor=white" alt="xcode"/></a>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/js-yellow?style=flat-square&logo=javascript&logoColor=white" alt="js"/></a>
+  <a href="https://www.oracle.com/index.html" target="_blank"><img src="https://img.shields.io/badge/oracle-red?style=flat-square&logo=oracle&logoColor=white" alt="oracle"/></a>
+  <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white" alt="css"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://phpenthusiast.com" target="_blank"><img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.shields.io/badge/C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://img.shields.io/badge/MSSQL-blue?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
 </p>
 
-<h2>Skills and Experience</h2>
-<p>
-  🔴 <strong>Frameworks</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-<p>
-  🔴 <strong>Databases</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-<p>
-  🔴 <strong>Tools and Services</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
-</p>
 
 <h2>Certificates</h2>
 <p align="left">
