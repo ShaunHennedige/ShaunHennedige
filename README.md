@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Tel%2FWhatsApp-%2B94%20764778823-green?style=flat-square&logo=appveyor"/><br>
       <img src="https://img.shields.io/badge/EMAIL-shaundvp%40gmail.com-orange?style=flat-square&logo=appveyor"/><br>
     </ul>
-  <img src="https://img.shields.io/badge/Fun%20fact-I%20am%20a%20Song%20Lover-lightgrey?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/Fun%20fact-I%20am%20a%20Song%20Lover-lightgrey?style=flat-square&logo=appveyor"/>
 </ul>
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
