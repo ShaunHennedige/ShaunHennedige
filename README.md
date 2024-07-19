@@ -4,8 +4,7 @@
 
 <ul>
   <img src="https://img.shields.io/badge/Working%20as%20a-Freelance%20Software%20Engineer-blue?style=flat-square&logo=appveyor"/><br>
-  <img src="https://img.shields.io/badge/Learning-C%23%20OOP%20language-green?style=flat-square&logo=appveyor"/><br>
-  <img src="https://img.shields.io/badge/Help%20with-Web%20project%20development-yellow?style=flat-square&logo=appveyor"/><br>
+  <img src="https://img.shields.io/badge/Help%20with-Web%20App%20Development-yellow?style=flat-square&logo=appveyor"/><br>
   <img src="https://img.shields.io/badge/Ask%20me%20about-Anything-orange?style=flat-square&logo=appveyor"/><br>
   <img src="https://img.shields.io/badge/How%20to%20reach%20me-blueviolet?style=flat-square&logo=appveyor"/><br>
     <ul style="list-style-type: none;">
