@@ -16,7 +16,17 @@
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShaunHennedige&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<h3 align="left">Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunHennedige&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShaunHennedige&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaunHennedige&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <h2>Tools</h2>
 <p align="left">
