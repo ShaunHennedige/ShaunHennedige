@@ -16,7 +16,7 @@
 
 <img align='center' src="https://media0.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47k1xhvwj8snj5jrqryh5jb1pzighx8rgxwte63rh1&rid=giphy.gif&ct=ts" width="200">
 
-<h3 align="left">Stats</h3>
+<h2>Stats</h2>
 
 ###
 
